@@ -37,7 +37,8 @@ ordered data
   
   |name|college|branch|
   |------|-------|--------|
-  |vineela|vrsec|it|
+  |vineela|vrsec|it|   
+  |----|-----|-----|    
   |tharuni|vrsec|cse|
   
   ~~vineela
